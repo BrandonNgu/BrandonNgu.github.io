@@ -4,3 +4,7 @@
     padding: 10px;
     border: 1px solid #000000;
 }
+
+a:hover {
+    color: red; /* Set your desired color */
+}
