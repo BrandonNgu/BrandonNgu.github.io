@@ -8,3 +8,9 @@
 a:hover {
     color: red; /* Set your desired color */
 }
+
+#imageContainer {
+    /* Your styles here */
+    border: 2px solid black;
+    padding: 10px;
+}
